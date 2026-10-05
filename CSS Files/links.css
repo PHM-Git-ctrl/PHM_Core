@@ -1,4 +1,10 @@
-.youtube-channel {
+.link-card {
     width: 150px ;
     height: auto ;
+}
+
+.link-section {
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
 }
