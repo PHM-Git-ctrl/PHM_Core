@@ -24,3 +24,8 @@ h2 a {
     text-decoration: none;
     text-align: center;
 }
+
+.about-community {
+    position: relative;
+    top: 100px
+}
